@@ -1,15 +1,20 @@
-![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
-
-Maker Media GmbH
-
-***
-
 # Bürothermometer mit Farbwechsel
 
-### Warum denn gleich wegwerfen: Statt im Abfall landen eine kleine Plastikkiste und ein Glasröhrchen hier auf dem Schreibtisch.
+### Thermometer mit einem LED-Streifen in einem alten Glasröhrchen von Vanillieschoten.
 
-Zusammen mit einem Sensor und einem LED-Streifen lässt sich daraus ein einfaches Thermometer bauen.
 
 ![Picture](https://github.com/MakeMagazinDE/buero-thermometer/blob/master/Buerothermometer.jpg) 
 
+
+***
+Fork von
+
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
+
+[GitHub-Repository aus Make 3/20](https://github.com/MakeMagazinDE/buero-thermometer)
+
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 3/20 ab Seite 75](https://www.heise.de/select/make/2020/3/1592676511469850).
+***
+
+
+
